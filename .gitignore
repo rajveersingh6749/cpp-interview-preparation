@@ -1,0 +1,37 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.dll
+*.dylib
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug and build directories
+build/
+bin/
+debug/
+release/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.user
+*.sdf
+*.db
+*.log
+
+# macOS / Windows specific
+.DS_Store
+Thumbs.db
